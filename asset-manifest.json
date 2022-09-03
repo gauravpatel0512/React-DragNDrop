@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gauravpatel0512/React-DragNDrop/static/css/main.6f4484bd.css",
+    "main.js": "/gauravpatel0512/React-DragNDrop/static/js/main.52ff9729.js",
+    "static/js/787.8c01bc10.chunk.js": "/gauravpatel0512/React-DragNDrop/static/js/787.8c01bc10.chunk.js",
+    "index.html": "/gauravpatel0512/React-DragNDrop/index.html",
+    "main.6f4484bd.css.map": "/gauravpatel0512/React-DragNDrop/static/css/main.6f4484bd.css.map",
+    "main.52ff9729.js.map": "/gauravpatel0512/React-DragNDrop/static/js/main.52ff9729.js.map",
+    "787.8c01bc10.chunk.js.map": "/gauravpatel0512/React-DragNDrop/static/js/787.8c01bc10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4484bd.css",
+    "static/js/main.52ff9729.js"
+  ]
+}
